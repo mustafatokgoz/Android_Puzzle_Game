@@ -1,4 +1,4 @@
-package com.example.deneme;
+package com.example.app;
 
 import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;

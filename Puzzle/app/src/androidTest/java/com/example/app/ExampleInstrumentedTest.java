@@ -1,4 +1,4 @@
-package com.example.deneme;
+package com.example.app;
 
 import android.content.Context;
 import androidx.test.platform.app.InstrumentationRegistry;
