@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">3x3 Puzzle</string>
+    <string name="entered">Start</string>
+    <string name="textx">X</string>
+    <string name="textf">-</string>
+    <string name="texts">-</string>
+    <string name="win">Congratulation</string>
+    <string name="hint">Hint</string>
+</resources>
